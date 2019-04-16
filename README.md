@@ -6,7 +6,7 @@ EE 298 CoE 197 - Deep Learning , University of the Philippines - Diliman
 <br> [Radial symmetries based decomposition of cell clusters in binary and gray level images](https://drive.google.com/file/d/1s_HuTUzTMdV-Zop730M5AR8X8ri7nBog/view?usp=sharing)
 <br> [Quantification of Histochemical Staining by Color Deconvolution](https://drive.google.com/file/d/1iDyGSraJy24knoeQypKdyQDXXWLPfO5a/view?usp=sharing)
 <br> [Pop out many small structures from a very large microscopic image](https://drive.google.com/file/d/1IbsGByxzjHPP4aKJs2CvF30pgUweU-_q/view?usp=sharing)
-<br> [Novel image markers for non-small cell lung cancer classification and survival prediction(https://drive.google.com/file/d/12rsOkT-vXfEUAwZRPY-VpyJz8ZwgMuZP/view?usp=sharing)
+<br> [Novel image markers for non-small cell lung cancer classification and survival prediction](https://drive.google.com/file/d/12rsOkT-vXfEUAwZRPY-VpyJz8ZwgMuZP/view?usp=sharing)
 <br> [Large-scale computations on histology images reveal grade-differentiating parameters for breast cancer](https://drive.google.com/file/d/1Nk0Lmg2PJ9HiyH4UVaqR5CyiZpUE6wa9/view?usp=sharing)
 <br> [Automated mitosis detection using texture, SIFT features and HMAX biologically inspired approach](https://drive.google.com/file/d/1UZEF9YZ3B99jciKV2_5ronC21RUy1joF/view?usp=sharing)
 <br> [Iterative Voting for Inference of Structural Saliency and Characterization of Subcellular Events](https://drive.google.com/file/d/1GThMqI3VDwMU3FfvmZKITkv0JYF4R8S3/view?usp=sharing)
