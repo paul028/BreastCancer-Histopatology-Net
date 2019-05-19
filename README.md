@@ -51,3 +51,7 @@ EE 298 CoE 197 - Deep Learning , University of the Philippines - Diliman
 <br>*[A Deep Learning Architecture for Image Representation, Visual Interpretability and Automated Basal-Cell Carcinoma Cancer Detection](https://drive.google.com/file/d/1xJwxQuanPPDqhRLhsKXilEyn61uWg4bL/view?usp=sharing)
 <br>
 <br>*[Automated segmentation of tissue images for computerized IHC analysis](https://drive.google.com/file/d/107IK1he9MO1sVgHGx3g8FfRTuZDHkTh6/view?usp=sharing)
+
+## Dataset
+
+Nuclei Detection in Breast Cancer | Center for Computational Imaging and Personalized Diagnostics. (2018). Engineering.case.edu. Retrieved 10 May 2018, from http://engineering.case.edu/centers/ccipd/data
