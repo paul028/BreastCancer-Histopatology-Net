@@ -5,7 +5,13 @@
 <br>University of the Philippines - Diliman
 # Introduction
 # Model
+<br>Generator
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/Generator.png)
+<br>Discriminator
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/discriminator.png)
+
 # Results
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/training.png)
 # Related Models
 # Presentation Link
 <br>Related Literature and Models
