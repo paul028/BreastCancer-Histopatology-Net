@@ -1,5 +1,7 @@
-# EE298_CoE197-Project2
-EE 298 CoE 197 - Deep Learning , University of the Philippines - Diliman
+# GAN Based Nuclei Detection on Breast Cancer Histopathology Image
+<br>Paul Vincent Nonat
+<br>Gerald Ivan Sotelo
+<br>EE 298/CoE 197 - Deep Learning , University of the Philippines - Diliman
 
 <br>Related Literature and Models
 <br>*[Robust Segmentation of Overlapping Cells in Histopathology Specimens Using Parallel Seed Detection and Repulsive Level Set](https://drive.google.com/file/d/1pEzUWMKMjSIVhl4HMnf-WH6_5NruMkbW/view?usp=sharing)
