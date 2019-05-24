@@ -11,8 +11,10 @@
 <br>Discriminator
 ![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/discriminator.png)
 
-# Results
+# Training 
+<br> GIF output every 5 epoch
 ![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/training.png)
+# Result 
 # Related Models
 # Presentation Link
 <br>Related Literature and Models
