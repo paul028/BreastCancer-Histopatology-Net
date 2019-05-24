@@ -2,7 +2,7 @@
 
 <br>Paul Vincent Nonat
 <br>Gerald Ivan Sotelo
-<br>EE 298/CoE 197 - Deep Learning , University of the Philippines - Diliman
+<br>University of the Philippines - Diliman
 # Introduction
 # Model
 # Results
