@@ -15,6 +15,10 @@
 <br> GIF output every 5 epoch
 ![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/training.png)
 # Result 
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/training_result1.PNG)
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/training_result2.PNG)
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/c1.PNG)
+![alt text](https://github.com/paul028/EE298_CoE197-Project2/blob/master/c2.PNG)
 # Related Models
 <br>*[Robust Segmentation of Overlapping Cells in Histopathology Specimens Using Parallel Seed Detection and Repulsive Level Set]
 <br>*[Automated segmentation of tissue images for computerized IHC analysis](https://drive.google.com/file/d/107IK1he9MO1sVgHGx3g8FfRTuZDHkTh6/view?usp=sharing)
