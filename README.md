@@ -1,4 +1,4 @@
-# GAN Based Nuclei Detection on Breast Cancer Histopathology Image
+# Nuclei Detection on Breast Cancer Histopathology Image
 
 <br>Paul Vincent Nonat
 <br>Gerald Ivan Sotelo
