@@ -2,7 +2,6 @@
 
 <br>Paul Vincent Nonat
 <br>Gerald Ivan Sotelo
-<br>Group 4
 <br>University of the Philippines - Diliman
 # Introduction
 # Model
